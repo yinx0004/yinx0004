@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinx0004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinx0004&layout=compact)
 <!--
 **yinx0004/yinx0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
