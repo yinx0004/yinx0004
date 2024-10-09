@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinx0004)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yinx0004/yinx0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
