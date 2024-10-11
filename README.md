@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats-silk-pi-68.vercel.app/api?username=yinx0004&show_icons=true&theme=radical)
+<img align="center" height="170" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula](https://github-readme-stats-silk-pi-68.vercel.app/api?username=yinx0004&show_icons=true&theme=radical)"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinx0004&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
