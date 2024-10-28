@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👩‍💻
 ![Anurag's GitHub stats](https://github-readme-stats-chi-three-32.vercel.app/api?username=yinx0004&show_icons=true&theme=radical&rank_icon=default)
 
 <!--
