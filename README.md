@@ -1,5 +1,5 @@
 ## Hi there 👩‍💻
-![Anurag's GitHub stats](https://github-readme-stats-chi-three-32.vercel.app/api?username=yinx0004&show_icons=true&theme=radical&rank_icon=default)
+![Anurag's GitHub stats](https://github-readme-stats-chi-three-32.vercel.app/api?username=yinx0004&show_icons=true&theme=radical&rank_icon=percentile)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinx0004&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
