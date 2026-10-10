@@ -64,8 +64,6 @@ motto:      "Backups are useless. Restores are priceless."
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yinx0004&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yinx0004&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&area=true" />
-
 <img src="https://raw.githubusercontent.com/yinx0004/yinx0004/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
