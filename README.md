@@ -18,7 +18,7 @@ uptime:     99.99%
 currently:
   - building: observability for distributed databases
   - learning:  ClickHouse internals
-  - hunting:   risks and flaky failovers
+  - hunting:   Risks and flaky failovers
 motto:      "Backups are useless. Restores are priceless."
 ```
 
