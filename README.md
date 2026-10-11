@@ -12,7 +12,7 @@
 ```yaml
 # ~/.sherry/profile.yaml
 name:       Sherry Yin
-role:       Database / SRE Engineer
+role:       Reliability Engineering & Incident Management
 location:   Singapore (UTC+8)
 uptime:     99.99%
 currently:
